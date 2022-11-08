@@ -1,0 +1,30 @@
+{
+    "cars": {
+        "cars": [
+            {
+                "guid": "1",
+                "brand": "Toyota",
+                "model": "Yaris",
+                "year": "2022",
+                "color": "yellow",
+                "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3e/2020_Toyota_Yaris_Design_HEV_CVT_1.5_Front.jpg"
+            },
+            {
+                "guid": "2",
+                "brand": "Toyota",
+                "model": "Prado",
+                "year": "2020",
+                "color": "black",
+                "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/2018_Toyota_Land_Cruiser_Prado_%28GDJ150R%29_GXL_wagon_%282018-08-06%29_01.jpg/800px-2018_Toyota_Land_Cruiser_Prado_%28GDJ150R%29_GXL_wagon_%282018-08-06%29_01.jpg"
+            },
+            {
+                "guid": "3",
+                "brand": "Nissan",
+                "model": "Frontier",
+                "year": "2018",
+                "color": "brown",
+                "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3e/2020_Toyota_Yaris_Design_HEV_CVT_1.5_Front.jpg"
+            }            
+        ]
+    }
+}
